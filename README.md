@@ -95,7 +95,7 @@ Este proyecto se ha configurado para utilizar Maven como herramienta de administ
 * Pasos para Ejecutar el Proyecto
   Clonar el Repositorio: Abrir una terminal y navegar hasta el directorio en el que se desee clonar el repositorio.
   * Compilar el Proyecto: Haciendo uso de mvn compile
-  * Ejecutar el Servidor: mvn exec:java `-Dexec.mainClass="org.networking.HttpServerAsnc"`
+  * Ejecutar el Servidor: `mvn exec:java -Dexec.mainClass="org.networking.HttpServerAsnc"`
   * Acceder a la Interfaz de Usuario: Entrando desde un navegador a `http://localhost:35000/`
 
 
